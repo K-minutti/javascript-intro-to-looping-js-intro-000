@@ -15,6 +15,7 @@ return "done"
 
 
 function doWhileLoop(num) {
+  let num = -1
   function incrementVariable() {
     num = num + 1
      return num}
